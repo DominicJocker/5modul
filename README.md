@@ -1,6 +1,6 @@
 # Exchenge
 
-![Excheng](https://github.com/IhorDomnich/5modul-exchenge/blob/main/img/exchenge.gif?raw=true)
+![Exchenge](https://github.com/IhorDomnich/5modul-exchenge/blob/main/img/exchenge.gif?raw=true)
 
 ## Demo
 
@@ -11,7 +11,7 @@ https://ihordomnich.github.io/5modul-exchenge/
 
  ## Technologies
 
- - HTML
+- HTML
 - CSS
 - JavaScript
 - BEM
