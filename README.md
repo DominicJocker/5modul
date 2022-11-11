@@ -1,6 +1,6 @@
 # Exchenge
 
-![Excheng](img/header.jpg)
+![Excheng](https://github.com/IhorDomnich/5modul-exchenge/blob/main/img/exchenge.gif?raw=true)
 
 ## Demo
 
